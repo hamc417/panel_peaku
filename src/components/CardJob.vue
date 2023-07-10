@@ -3,7 +3,7 @@
     <!-- aca comence -->
 
     <div   
-        class="card job-card mb-3 border m-2 icon-link icon-link-hover cardh">
+        class="card job-card mb-3 border m-2 icon-link icon-link-hover w-100">
         <div  class="card-body p-2 p-md-3 ">
             <div class="row align-items-center">
                 <div class="justify-content-center align-items-center col-md-1 col-3"><img
